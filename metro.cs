@@ -1,20 +1,3 @@
-
-PASTEBIN
-new paste
-API tools faq deals	
- 
-___Kyborg___
-PRO
-My Pastes
-
-Public Pastes
-
-SHARE
-TWEET
-MUD C#
-___Kyborg___ / C# Aug 16th, 2019 (edited) 7 Never
-rawdownloadcloneembedreportprinteditdelete C# 5.38 KB
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -332,9 +315,3 @@ namespace MUD
 
     }
 }
-create new paste  /  dealsnew!  /  syntax languages  /  archive  /  faq  /  tools  /  night mode  /  api  /  scraping api	
-privacy statement  /  cookies policy  /  terms of service  /  security disclosure  /  dmca  /  contact
-
-By using Pastebin.com you agree to our cookies policy to enhance your experience.
-Site design & logo © 2018 Pastebin; user contributions (pastes) licensed under cc by-sa 3.0 -- FavPNG -- Dedicated Server Hosting by Steadfast
-Top
